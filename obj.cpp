@@ -3,7 +3,7 @@
 //
 #include "Student.h"
 
-int main() {
+int mainppp() {
 //    规范写法：要有头文件，.h,.hpp -- 实现文件 .c .cpp
     Student student1; ///栈空间开辟
     student1.setName("yjh");
