@@ -29,7 +29,7 @@ public:
 };
 // 在实现
 int Dog::id =9;
-int main() {
+int main12ddf() {
     Dog dog;
     cout<<Dog::id<<endl;
     dog.update2();
