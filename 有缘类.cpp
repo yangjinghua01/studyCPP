@@ -28,7 +28,7 @@ public:
     }
 };
 
-int main() {
+int mainyouyuanlei() {
     Class mImageViewClass;
     mImageViewClass.changeViewSize(999);
     int size = mImageViewClass.getImageViewSize();
